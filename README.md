@@ -17,6 +17,6 @@ Several bugs and faults from the original Analog Devices codes are corrected, bu
     * MEAS - single measurement
     * CONT - continous measurement
     * STOP - stop continous measurement
-    * REGR addr - read the value of from addr register address
-    * REGW addr data mask - write data value into the masked region of address
+    * REGR *addr* - read the value of from *addr* register address
+    * REGW *addr* *data* *mask* - write *data* value into the *masked* region of *addr* register address
 
